@@ -1,5 +1,3 @@
-# Example 1:
-
 numbers = [1, 2, 3, 4, 5]
 
 total_sum = 0
@@ -9,9 +7,8 @@ for number in numbers:
 
 print(total_sum)
 
-# Example 2:
 
-max_number = numbers [0]
+max_number = numbers[0]
 for number in numbers:
     if number > max_number:
         max_number = number
