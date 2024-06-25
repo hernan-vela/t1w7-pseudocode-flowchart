@@ -1,6 +1,9 @@
 def greet():
     print("I love coding!!")
 
+#Once the indentention is aligned with "def" we're out of the function
+
+#Once we typed the name of the function, it will execute all the statements inside the function
 greet()
 
 scope_out = "outside"
